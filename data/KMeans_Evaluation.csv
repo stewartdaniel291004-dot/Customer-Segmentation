@@ -1,0 +1,5 @@
+Metric,Value
+Number of Clusters,5.0
+Customers,200.0
+Silhouette Score,0.5547
+Inertia,65.5684
